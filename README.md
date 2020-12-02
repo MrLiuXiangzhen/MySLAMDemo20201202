@@ -1,8 +1,11 @@
 # MySLAMDemo20201202
 
 > 使用Python还原的部分SLAM功能，包含特征提取、2D-2D、3D-2D、3D-3D、三角化操作
+>
 
 所需Python基础模块：python3、opencv3、matplotlib、numpy
+> 其中videoFeature.py 使用多线程，需要额外的threading库
+>
 
 下载方式：
 ```shell
